@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "wakfucraft:item/rubilax_dagger"
+  }
+}
